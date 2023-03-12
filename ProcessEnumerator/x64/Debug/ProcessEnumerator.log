@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(15,10): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(15,10): warning C4313: 'printf': '%i' in format string conflicts with argument 1 of type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(29,10): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(29,10): warning C4313: 'printf': '%i' in format string conflicts with argument 1 of type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+  ProcessEnumerator.vcxproj -> D:\Pentesting_Stuff\ProcessEnumerator\x64\Debug\ProcessEnumerator.exe

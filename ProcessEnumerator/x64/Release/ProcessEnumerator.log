@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(17,10): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(17,10): warning C4313: 'printf': '%i' in format string conflicts with argument 1 of type 'DWORD (__cdecl *)(void)'
+D:\Pentesting_Stuff\ProcessEnumerator\ProcessEnumerator\main.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProcessEnumerator.vcxproj -> D:\Pentesting_Stuff\ProcessEnumerator\x64\Release\ProcessEnumerator.exe
